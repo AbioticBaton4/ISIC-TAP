@@ -88,3 +88,10 @@ Para obtener una copia local de este curso, abre tu terminal y ejecuta:
 ```bash
 git clone https://github.com/AbioticBaton4/ISIC-TAP.git
 ```
+
+##  Recursos de Instalación
+Para ayudarte a configurar tu entorno, consulta las guías detalladas en la carpeta [/00_Setup](./00_Setup):
+
+* [Guía de Instalación de Java](./00_Setup/Instalacion_Java.md)
+* [Guía de Instalación de Git](./00_Setup/Instalacion_Git.md)
+* [Primeros pasos con Git y GitHub](./00_Setup/Guia_Git_GitHub.md)
