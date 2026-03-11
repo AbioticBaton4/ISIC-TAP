@@ -19,13 +19,13 @@ La asignatura de Tópicos Avanzados de Programación proporciona al estudiante l
 ## Temario
 
 ### Unidad 1: Interfaz Gráfica de Usuario (GUI)
-* 1.1 Creación de interfaz gráfica para usuarios.
-* 1.2 Tipos de eventos.
-* 1.3 Manejo de eventos.
-* 1.4 Manejo de componentes gráficos de control.
+* [1.1 Creación de interfaz gráfica para usuarios](./Unidad_1_GUI/1.1_Creación_de_GUI.md)
+* [1.2 Tipos de eventos](./Unidad_1_GUI/1.2_Tipos_de_eventos.md)
+* [1.3 Manejo de eventos](./Unidad_1_GUI/1.3_Manejo_de_eventos.md)
+* [1.4 Manejo de componentes gráficos de control](./Unidad_1_GUI/1.4_Manejo_de_componentes_gráficos_de_control.md)
 
 ### Unidad 2: Componentes y Librerías
-* 2.1 Definición conceptual de componentes, paquetes y librerías.
+* 2.1 Definición conceptual de componentes, paquetes y librerías
 * 2.2 Uso de librerías proporcionadas por el lenguaje.
 * 2.3 Creación de componentes (visuales y no visuales) definidos por el usuario.
 * 2.4 Creación y uso de paquetes/librerías definidas por el usuario.
